@@ -1,3 +1,3 @@
 # Video-Chat-App
 <br>
-Created using NodeJs, express and Webrtc :)
+Created using NodeJs, Express and Webrtc :)
